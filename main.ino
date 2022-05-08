@@ -189,8 +189,8 @@ time_t requestSync()
 
 // create a function to display the current time on display and to update the time every second
 
-//void cur_time()
-//{
+// void cur_time()
+// {
 //    Serial.print("Time: ");
 //    Serial.print(timeHour);
 //    Serial.print(":");
@@ -208,5 +208,5 @@ time_t requestSync()
 //    lcd.print(timeSec);
 //    delay(2000);
 //    lcd.clear();
-//
-//}
+
+// }
